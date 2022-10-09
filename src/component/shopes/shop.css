@@ -1,6 +1,8 @@
 .shop-container{
     display: grid;
     grid-template-columns: 4fr 1fr;
+    background-color:aliceblue;
+    
 }
 
 .products-container{
@@ -8,7 +10,7 @@
     grid-template-columns: repeat(3,1fr);
     gap:45px;
     margin:100px 50px;
-
+    
 }
 
 .cart-container{

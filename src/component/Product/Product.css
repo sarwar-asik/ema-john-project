@@ -37,7 +37,7 @@
 
 .btn-cart{
     width: 100%;
-    background: #FFE0B3;
+    background: #c1790c;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
     border:none;
@@ -51,7 +51,8 @@
     
 }
 .btn-cart:hover{
-    background-color: aqua;
+    background-color: rgb(10, 153, 153);
+    color: azure;
     display: flex;
     align-items: center;
     gap: 10px;

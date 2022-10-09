@@ -1,0 +1,18 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart button{
+    padding: 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(205, 138, 14);
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+}
+
+.cart button:hover{
+    background-color: rgb(211, 8, 8);
+    color: aliceblue;
+    padding: 23px;
+}
